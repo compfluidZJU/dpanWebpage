@@ -1,0 +1,81 @@
+{
+  "title": "Lab Photos",
+  "icon": "camera",
+  "photos": [
+    {
+      "src": "/images/lab_photos/p-250610-1.jpg",
+      "alt": "Lab photo 2025-06-10",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/p-241123-1.jpg",
+      "alt": "Lab photo 2024-11-23",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/p-241123-2.jpg",
+      "alt": "Lab photo 2024-11-23",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/p-0831-1.jpg",
+      "alt": "Lab photo 2023-08-31",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/p-0830-1.jpg",
+      "alt": "Lab photo 2023-08-30",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/p-0830-2.jpg",
+      "alt": "Lab photo 2023-08-30",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/p-0830-3.jpg",
+      "alt": "Lab photo 2023-08-30",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/l11.jpg",
+      "alt": "Lab activity",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/l12.jpg",
+      "alt": "Lab activity",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/l13.jpg",
+      "alt": "Lab activity",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/l21.jpg",
+      "alt": "Lab activity",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/l22.jpg",
+      "alt": "Lab activity",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/l23.jpg",
+      "alt": "Lab activity",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/l31.jpg",
+      "alt": "Lab activity",
+      "caption": ""
+    },
+    {
+      "src": "/images/lab_photos/l32.jpg",
+      "alt": "Lab activity",
+      "caption": ""
+    }
+  ]
+}

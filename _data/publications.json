@@ -1,0 +1,529 @@
+{
+  "legend": "(*Corresponding Authors; Underline: Student Authors; #Co-authors.)",
+  "papers": [
+    {
+      "year": 2025,
+      "items": [
+        {
+          "title": "Non-Markovian intelligent dissipative particle dynamics integrated with machine learning for enhancing coarse-grained simulations",
+          "doi": "https://doi.org/10.1016/j.jcp.2025.114356",
+          "authors": "S. Zhang, T. Ye*, B. Jing, H. Yin, <strong>D. Pan</strong>",
+          "journal": "Journal of Computational Physics",
+          "details": "542, 114356, (2025)."
+        },
+        {
+          "title": "Enhancement of drag reduction in particle-laden turbulent flows under span-wise wall oscillation",
+          "doi": "https://doi.org/10.1103/b81f-6gvc",
+          "authors": "<u>J. Xie</u>, J. Hu, C. Zhu*, <u>X. Kang</u>, <strong>D. Pan*</strong>",
+          "journal": "Physical Review Research",
+          "details": "7(4), 043064, (2025)."
+        },
+        {
+          "title": "基于CRUD模型的燃料包壳表面离子浓缩的数值模拟研究",
+          "doi": "https://doi.org/10.13832/j.jnpe.2024.080022",
+          "authors": "<u>高畅</u>, 陈小强, <strong>潘定一*</strong>, 刘宝君, 曾奇锋",
+          "journal": "核动力工程",
+          "details": "46(4), 25-34, (2025)."
+        },
+        {
+          "title": "An integrated framework for the prediction of axial offset anomaly in pressurized water reactors",
+          "doi": "https://doi.org/10.1063/5.0274866",
+          "authors": "Z. Zhang, <u>J. Wang*</u>, S. Lei, J. Qin, <strong>D. Pan*</strong>",
+          "journal": "International Journal of Fluid Engineering",
+          "details": "2(3), 034301, (2025)."
+        },
+        {
+          "title": "Coupling regimes between particles and Kelvin–Helmholtz billows in turbidity currents at moderate Reynolds number",
+          "doi": "https://doi.org/10.1017/jfm.2025.10435",
+          "authors": "<u>J. Xie</u>, P. Hu, <strong>D. Pan*</strong>",
+          "journal": "Journal of Fluid Mechanics",
+          "details": "1016 (2025): A65."
+        },
+        {
+          "title": "Transition regimes of gravity current: from salinity-driven to particle-driven",
+          "doi": "https://doi.org/10.1017/jfm.2025.10393",
+          "authors": "<u>J. Xie</u>, <strong>D. Pan*</strong>",
+          "journal": "Journal of Fluid Mechanics",
+          "details": "1016 (2025): A21."
+        },
+        {
+          "title": "Microstructure and rheology of rim-charged platelike particle suspensions: A numerical study",
+          "doi": "https://doi.org/10.1122/8.0000899",
+          "authors": "<u>J. Wang</u>, <strong>D. Pan*</strong>",
+          "journal": "Journal of Rheology",
+          "details": "69, 267-280 (2025)."
+        },
+        {
+          "title": "Shear thinning and microstructures of attractive nonBrownian suspensions",
+          "doi": "https://doi.org/10.1063/5.0252328",
+          "authors": "<u>Y. Liang</u>, <u>J. Wang</u>, Y. Lin*, <strong>D. Pan*</strong>",
+          "journal": "Physics of Fluids",
+          "details": "37, 023367 (2025)."
+        },
+        {
+          "title": "Numerical study of microorganisms swimming near a convex wall in a Giesekus fluid",
+          "doi": "https://doi.org/10.1103/PhysRevE.111.015103",
+          "authors": "C. Zhu, F. Peng, <strong>D. Pan</strong>, Z. Yu, Z. Lin*",
+          "journal": "Physical Review E",
+          "details": "111(1), 015103, (2025)."
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "items": [
+        {
+          "title": "Bioinspired Flexible Hydrogelation with Programmable Properties for Tactile Sensing",
+          "doi": "https://doi.org/10.1002/adma.202401678",
+          "authors": "Y. Wang<sup>#</sup>, Q. Geng<sup>#</sup>, H. Lyu, W. Sun, X. Fan, K. Ma, K. Wu, <u>J. Wang</u>, Y. Wang, D. Mei, C. Guo, P. Xiu*, <strong>D. Pan*</strong>, K. Tao*",
+          "journal": "Advanced Materials",
+          "details": "2401678, (2024)."
+        },
+        {
+          "title": "Fast multi-objective optimization design of gas turbine L-inlet duct",
+          "doi": "https://doi.org/10.1177/09576509231216021",
+          "authors": "X. Xin, <u>Y. Min</u>, <strong>D. Pan</strong>, Z. Liu*, J. Tan",
+          "journal": "Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy",
+          "details": "238, 469-483, (2024)."
+        },
+        {
+          "title": "复杂颗粒悬浮液流变特性及其微介观机理研究综述",
+          "doi": "https://doi.org/10.1360/TB-2023-0848",
+          "authors": "<u>梁怡轩</u>, <u>王金鹤</u>, <strong>潘定一</strong>*",
+          "journal": "科学通报",
+          "details": "69, 1192-1210, (2024)."
+        },
+        {
+          "title": "复杂多相流体的介观模拟: 耗散粒子动力学方法及应用",
+          "doi": "https://doi.org/10.6052/1000-0992-23-033",
+          "authors": "<strong>潘定一</strong>*, 胡国辉, 陈硕, PHAN-THIEN Nhan",
+          "journal": "力学进展",
+          "details": "54(1), 173-201, (2024)."
+        },
+        {
+          "title": "Flow over a radiating multi-filamentous structure with various opening angles: From disk-like to cone-like shape",
+          "doi": "https://doi.org/10.1063/5.0202922",
+          "authors": "<u>S. Li</u>, <strong>D. Pan</strong>*, L. Zeng, J. Li, X. Shao*",
+          "journal": "Physics of Fluids",
+          "details": "36(3), 033622, (2024)."
+        },
+        {
+          "title": "Settling dynamics and thresholds for breakup and separation of bi-disperse particle clouds",
+          "doi": "https://doi.org/10.1063/5.0196098",
+          "authors": "J. Hu, Q. Yin, <u>J. Xie</u>*, X. Su, Z. Zhu, <strong>D. Pan</strong>",
+          "journal": "Physics of Fluids",
+          "details": "36(3), 033306, (2024)."
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "items": [
+        {
+          "title": "Particle segregation within bidisperse turbidity current evolution",
+          "doi": "https://doi.org/10.1017/jfm.2023.623",
+          "authors": "J. Xie, C. Zhu*, P. Hu*, Z. Yu, <strong>D. Pan</strong>",
+          "journal": "Journal of Fluid Mechanics",
+          "details": "971, A16, (2023)."
+        },
+        {
+          "title": "Heterogeneous-Nucleation Biosensor for Long-Term Collection and Mask-Based Self-Detection of SARS-CoV-2",
+          "doi": "https://doi.org/10.3390/bios13090858",
+          "authors": "Y. Su, S. Bian, <strong>D. Pan</strong>, Y. Xu, G. Rong, H. Zhang, M. Sawan*",
+          "journal": "Biosensors",
+          "details": "13(9), 858, (2023)."
+        },
+        {
+          "title": "Aspect ratio effects on the aerodynamic performance of a biomimetic Hummingbird wing in flapping",
+          "doi": "https://doi.org/10.3390/biomimetics8020216",
+          "authors": "<u>Y. Min</u>, <u>G. Zhao</u>, <strong>D. Pan</strong>*, X. Shao",
+          "journal": "Biomimetics",
+          "details": "8(2), 216, (2023)."
+        },
+        {
+          "title": "壁面展向震荡诱导颗粒湍槽流减阻的直接数值模拟研究",
+          "doi": "https://doi.org/10.6052/0459-1879-22-590",
+          "authors": "<u>康晓宣</u>, 胡建新, 林昭武, <strong>潘定一</strong>*",
+          "journal": "力学学报",
+          "details": "55(5), 1087-1098, (2023)."
+        },
+        {
+          "title": "Three-dimensional sedimentation patterns of two interacting disks in a viscous fluid",
+          "doi": "https://doi.org/10.1017/jfm.2023.186",
+          "authors": "Y. Liu, Y. Guo*, B. Yang, <strong>D. Pan</strong>, Z. Xia, Z. Yu, L. Wang*",
+          "journal": "Journal of Fluid Mechanics",
+          "details": "960, A25, (2023)."
+        },
+        {
+          "title": "Effect of DLVO interactions on the rheology and microstructure of non-Brownian suspensions",
+          "doi": "https://doi.org/10.1007/s10409-023-22469-x",
+          "authors": "<u>J. Wang</u>, <strong>D. Pan</strong>*",
+          "journal": "Acta Mechanica Sinica",
+          "details": "39, 322469, (2023)."
+        },
+        {
+          "title": "Intelligent dissipative particle dynamics: Bridging mesoscopic models from microscopic simulations via deep neural networks",
+          "doi": "https://doi.org/10.1016/j.jcp.2022.111857",
+          "authors": "T. Ye*, B. Jing, <strong>D. Pan</strong>",
+          "journal": "Journal of Computational Physics",
+          "details": "475, 111857, (2023)."
+        },
+        {
+          "title": "基于虚拟区域法的粘弹性流体中微生物游动的数值模拟和应用",
+          "doi": "https://doi.org/10.6052/0459-1879-22-372",
+          "authors": "彭方远, <strong>潘定一</strong>, 陈杏藩, 林昭武*",
+          "journal": "力学学报",
+          "details": "55(1), 85-95, (2023)."
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "items": [
+        {
+          "title": "Mesoscopic simulation of liquid bridge spreading under squeezing of parallel plates",
+          "doi": "https://doi.org/10.1063/5.0127420",
+          "authors": "<u>J. Wang</u>, <u>J. Li</u>, <strong>D. Pan</strong>*",
+          "journal": "Physics of Fluids",
+          "details": "34(12), 123101, (2022)."
+        },
+        {
+          "title": "Systematic design of cell membrane coating to improve tumor targeting of nanoparticles",
+          "doi": "https://doi.org/10.1038/s41467-022-33889-3",
+          "authors": "L. Liu, <strong>D. Pan</strong>, S. Chen, M. Martikainen, A. Kårlund, J. Ke, H. Pulkkinen, H. Ruhanen, M. Roponen, R. Käkelä, W. Xu*, J. Wang*, V. Lehto*",
+          "journal": "Nature Communications",
+          "details": "13, 6181, (2022)."
+        },
+        {
+          "title": "多液滴槽道湍流减阻的直接数值模拟研究",
+          "doi": "https://doi.org/10.16076/j.cnki.cjhd.2022.04.013",
+          "authors": "<u>高畅</u>, <strong>潘定一</strong>*",
+          "journal": "水动力学研究与进展",
+          "details": "37(4), 547-554, (2022)."
+        },
+        {
+          "title": "Drag model from interface-resolved simulations of particle sedimentation in a periodic domain and vertical turbulent channel flows",
+          "doi": "https://doi.org/10.1017/jfm.2022.486",
+          "authors": "Y Xia, Z. Yu*, <strong>D. Pan</strong>, Z. Lin, Y. Guo",
+          "journal": "Journal of Fluid Mechanics",
+          "details": "944, A25, (2022)."
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "items": [
+        {
+          "title": "Drag and wake structure of a quasi-dandelion pappus model at low and moderate Reynolds numbers: The effects of filament width",
+          "doi": "https://doi.org/10.1063/5.0073820",
+          "authors": "<u>S. Li</u>, <strong>D. Pan</strong>*, J. Li, X. Shao*",
+          "journal": "Physics of Fluids",
+          "details": "33(12), 121904, (2021)."
+        },
+        {
+          "title": "Turbulence modulation by finite-size heavy particles in a downward turbulent channel flow",
+          "doi": "https://doi.org/10.1063/5.0053540",
+          "authors": "Y. Xia<sup>#</sup>, Z. Lin<sup>#</sup>, <strong>D. Pan</strong>, Z. Yu*",
+          "journal": "Physics of Fluids",
+          "details": "33(6), 063321, (2021)."
+        },
+        {
+          "title": "Surface roughness effect on the shear thinning of non-colloidal suspensions",
+          "doi": "https://doi.org/10.1063/5.0047305",
+          "authors": "Y. Lin, Y. Wang, H. Qin, <strong>D. Pan</strong>*, J. Chen",
+          "journal": "Physics of Fluids",
+          "details": "33(4), 043104, (2021)."
+        },
+        {
+          "title": "Study on strain stiffening of non-colloidal suspension in oscillating shear by a subsequent steady shear test",
+          "doi": "https://doi.org/10.1016/j.colsurfa.2021.126401",
+          "authors": "<u>A. Zhang</u>, C. Zhu, <strong>D. Pan</strong>*, Y. Lin*",
+          "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+          "details": "618, 126401, (2021)."
+        },
+        {
+          "title": "Numerical study on droplet deformation in periodic pulsatile shear flow and effects of inertia",
+          "doi": "https://doi.org/10.1016/j.jnnfm.2021.104494",
+          "authors": "<u>G. Zhao</u>, <strong>D. Pan</strong>*, <u>L. Zeng</u>, X. Shao",
+          "journal": "Journal of Non-Newtonian Fluid Mechanics",
+          "details": "289, 104494, (2021)."
+        },
+        {
+          "title": "亚声速无人机S弯进气道的多点多目标优化设计",
+          "doi": "https://doi.org/10.13675/j.cnki.tjjs.200104",
+          "authors": "<u>曾丽芳</u>, 胡建新*, <strong>潘定一</strong>, 黎军, 邵雪明",
+          "journal": "推进技术",
+          "details": "42(3), 495-504, (2021)."
+        },
+        {
+          "title": "Air bubbles play a role in shear thinning of non-colloidal suspensions",
+          "doi": "https://doi.org/10.1063/5.0035599",
+          "authors": "Y. Lin, Y. Wang, Z. Weng, <strong>D. Pan</strong>*, J. Chen*",
+          "journal": "Physics of Fluids",
+          "details": "33(1), 011702, (2021)."
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "items": [
+        {
+          "title": "Interface-resolved direct numerical simulations of the interactions between spheroidal particles and upward vertical turbulent channel flows",
+          "doi": "https://doi.org/10.1017/jfm.2020.159",
+          "authors": "C. Zhu, Z. Yu*, <strong>D. Pan</strong>, X. Shao",
+          "journal": "Journal of Fluid Mechanics",
+          "details": "891, A6, (2020)."
+        },
+        {
+          "title": "Model analysis and system parameters investigation for transient wave in a pump–pipe–valve system",
+          "doi": "https://doi.org/10.3390/w12041014",
+          "authors": "Z. Liu, <strong>D. Pan</strong>, F. Qu, J. Hu*",
+          "journal": "Water",
+          "details": "12(4), 1014, (2020)."
+        },
+        {
+          "title": "Automated design optimization of a mono tiltrotor in hovering and cruising states",
+          "doi": "https://doi.org/10.3390/en13051155",
+          "authors": "<u>L. Zeng</u>, J. Hu*, <strong>D. Pan</strong>*, X. Shao",
+          "journal": "Energies",
+          "details": "13(5), 1155, (2020)."
+        },
+        {
+          "title": "Size effect of the parallel-plate geometry on the rheological behavior of bentonite suspensions",
+          "doi": "https://doi.org/10.1122/1.5116118",
+          "authors": "Y. Lin, W. Wang, H. Zhu, J. Chen*, N. Phan-Thien, <strong>D. Pan</strong>",
+          "journal": "Journal of Rheology",
+          "details": "64(1), 111-117, (2020)."
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "items": [
+        {
+          "title": "Rheological behavior for laponite and bentonite suspensions in shear flow",
+          "doi": "https://doi.org/10.1063/1.5129211",
+          "authors": "Y. Lin, H. Zhu, W. Wang, J. Chen*, N. Phan-Thien, <strong>D. Pan</strong>",
+          "journal": "AIP Advances",
+          "details": "9, 125223, (2019)."
+        },
+        {
+          "title": "Antibody-functional microspheres integrated filter chip with inertial microflow for size-immune-capturing and digital detection of circulating tumor cells",
+          "doi": "https://doi.org/10.1021/acsami.9b09655",
+          "authors": "Y. Su<sup>#</sup>, Q. Tian<sup>#</sup>, <strong>D. Pan</strong><sup>#</sup>, L. Hui, Y. Chen, Q. Zhang, W. Tian, J. Yu, S. Hu, Y. Gao, D. Qian, T. Xie, B. Wang*",
+          "journal": "ACS Applied Materials & Interfaces",
+          "details": "11(33), 29569-29578, (2019)."
+        },
+        {
+          "title": "A fast multi-objective optimization approach to flush-mounted s-duct inlets design with both inflow and outflow",
+          "doi": "https://doi.org/10.1177/0954410018795806",
+          "authors": "<u>L. Zeng</u>, <strong>D. Pan</strong>*, S. Ye, X. Shao",
+          "journal": "Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering",
+          "details": "233(9), 3381-3394, (2019)."
+        },
+        {
+          "title": "Bioinspired shear flow-driven layer-by-layer in situ self-assembly",
+          "doi": "https://doi.org/10.1021/acsnano.8b08151",
+          "authors": "C. He<sup>#</sup>, T. Ye<sup>#</sup>, W. Teng<sup>#</sup>, Z. Fang, W. Ruan, G. Liu, H. Chen, J. Sun, L. Hui, F. Sheng, <strong>D. Pan</strong>, C. Yang, Y. Zheng, M. Luo, K. Yao, B. Wang*",
+          "journal": "ACS Nano",
+          "details": "13(2), 1910-1922, (2019)."
+        },
+        {
+          "title": "Aspect ratio effect of a pair of flapping wings on the propulsion of a bionic autonomous underwater glider",
+          "doi": "https://doi.org/10.1007/s42235-019-0013-8",
+          "authors": "Y. Li, <strong>D. Pan</strong>*, Z. Ma, Q. Zhao",
+          "journal": "Journal of Bionic Engineering",
+          "details": "16(1), 145-153, (2019)."
+        },
+        {
+          "title": "Smoothed particle hydrodynamics (SPH) for complex fluid flows: recent developments in methodology and applications",
+          "doi": "https://doi.org/10.1063/1.5068697",
+          "authors": "T. Ye<sup>#</sup>, <strong>D. Pan</strong><sup>#</sup>, C. Huang<sup>#</sup>, M. Liu*",
+          "journal": "Physics of Fluids",
+          "details": "31(1), 011301, (2019)."
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "label": "2018 and before",
+      "items": [
+        {
+          "title": "Hydrodynamic performance of an autonomous underwater glider with a pair of bioinspired hydro wings–A numerical investigation",
+          "doi": "https://doi.org/10.1016/j.oceaneng.2018.05.052",
+          "authors": "Y. Li, <strong>D. Pan</strong>*, Q. Zhao, Z. Ma, X. Wang",
+          "journal": "Ocean Engineering",
+          "details": "163, 51-57, (2018)."
+        },
+        {
+          "title": "Mesoscopic modelling of microbubble in liquid with finite density ratio of gas to liquid",
+          "doi": "https://doi.org/10.1209/0295-5075/122/20003",
+          "authors": "<strong>D. Pan</strong>, <u>G. Zhao</u>, <u>Y. Lin</u>*, X. Shao",
+          "journal": "EPL (Europhysics Letters)",
+          "details": "122, 20003, (2018)."
+        },
+        {
+          "title": "Smoothed Profile method and its applications in VIV",
+          "doi": "https://doi.org/10.1108/HFF-12-2016-0503",
+          "authors": "F. Xie, <strong>D. Pan</strong>, Y. Zheng, J. Zou*",
+          "journal": "International Journal of Numerical Methods for Heat and Fluid Flow",
+          "details": "27(7), 1623-1635, (2017)."
+        },
+        {
+          "title": "Application of Berendsen barostat in dissipative particle dynamics for nonequilibrium dynamic simulation",
+          "doi": "https://doi.org/10.1063/1.4978807",
+          "authors": "<u>Y. Lin</u>, <strong>D. Pan</strong>*, <u>J. Li</u>, L. Zhang, X. Shao",
+          "journal": "The Journal of Chemical Physics",
+          "details": "146(12), 124108, (2017)."
+        },
+        {
+          "title": "The mechanism of flapping propulsion of an underwater glider",
+          "doi": "https://doi.org/10.1016/S1001-6058(16)60693-5",
+          "authors": "Y. Li, <strong>D. Pan</strong>*, Z. Ma",
+          "journal": "Journal of Hydrodynamics",
+          "details": "28(5), 918-921, (2016)."
+        },
+        {
+          "title": "The correlation between wake transition and propulsive efficiency of a flapping foil: a numerical study",
+          "doi": "https://doi.org/10.1063/1.4961566",
+          "authors": "J. Deng, L. Sun, L. Teng, <strong>D. Pan</strong>*, X. Shao",
+          "journal": "Physics of Fluids",
+          "details": "28(9), 094101, (2016)."
+        },
+        {
+          "title": "Motion and deformation of immiscible droplet in plane Poiseuille flow at low Reynolds number",
+          "doi": "https://doi.org/10.1016/S1001-6058(16)60673-X",
+          "authors": "<strong>D. Pan</strong>, <u>Y. Lin</u>, L. Zhang, X. Shao*",
+          "journal": "Journal of Hydrodynamics",
+          "details": "28(4), 702-708, (2016)."
+        },
+        {
+          "title": "On the propulsive performance of tandem flapping wings with a modified immersed boundary method",
+          "doi": "https://doi.org/10.1142/S0219876216500250",
+          "authors": "<strong>D. Pan</strong>, J. Deng. X. Shao, Z. Liu*",
+          "journal": "International Journal of Computational Methods",
+          "details": "13(5), 1650025 (2016)."
+        },
+        {
+          "title": "Lees-Edwards boundary condition for simulation of polymer suspension with dissipative particle dynamics method",
+          "doi": "https://doi.org/10.1080/08927022.2015.1044455",
+          "authors": "<strong>D. Pan</strong>*, J. Hu*, X. Shao",
+          "journal": "Molecular Simulation",
+          "details": "42(4), 328-336 (2016)."
+        },
+        {
+          "title": "Effects of non-sinusoidal pitching motion on a semi-active flapping foil energy harvester",
+          "doi": "https://doi.org/10.1016/j.renene.2015.07.037",
+          "authors": "L. Teng, J. Deng*, <strong>D. Pan</strong>, X. Shao",
+          "journal": "Renewable Energy",
+          "details": "85, 810-818, (2016)."
+        },
+        {
+          "title": "Growth of large graphene single crystal inside a restricted chamber by chemical vapor deposition",
+          "doi": "https://doi.org/10.1016/j.carbon.2015.08.115",
+          "authors": "Y. Song, <strong>D. Pan</strong>, Y. Cheng, P. Wang, P. Zhao*, H. Wang*",
+          "journal": "Carbon",
+          "details": "95, 1027-1032, (2015)."
+        },
+        {
+          "title": "Studies on liquid-liquid interfacial tension with standard dissipative particle dynamics method",
+          "doi": "https://doi.org/10.1080/08927022.2014.952636",
+          "authors": "<strong>D. Pan</strong>*, N. Phan-Thien, B. C. Khoo",
+          "journal": "Molecular Simulation",
+          "details": "41(14), 1166-1176, (2015)."
+        },
+        {
+          "title": "Inertial effects of the semi-passive flapping foil on its energy extraction efficiency",
+          "doi": "https://doi.org/10.1063/1.4921384",
+          "authors": "J. Deng, L. Teng, <strong>D. Pan</strong>*, X. Shao",
+          "journal": "Physics of Fluids",
+          "details": "27(5), 053103, (2015)."
+        },
+        {
+          "title": "Dissipative particle dynamics simulation of droplet suspension in shear flow at low Capillary number",
+          "doi": "https://doi.org/10.1016/j.jnnfm.2014.08.011",
+          "authors": "<strong>D. Pan</strong>*, N. Phan-Thien, B. C. Khoo",
+          "journal": "Journal of Non-Newtonian Fluid Mechanics",
+          "details": "212, 63-72, (2014)."
+        },
+        {
+          "title": "Simulations of passive oscillation of a flexible plate in the wake of a cylinder by immersed boundary method",
+          "doi": "https://doi.org/10.1016/j.euromechflu.2014.02.001",
+          "authors": "<strong>D. Pan</strong>, X. Shao*, J. Deng, Z. Yu",
+          "journal": "European Journal of Mechanics - B/Fluids",
+          "details": "46, 17-27, (2014)."
+        },
+        {
+          "title": "Orientation of a cone settling in a vertical duct",
+          "doi": "https://doi.org/10.1088/0169-5983/46/1/015502",
+          "authors": "Z. Yu, <strong>D. Pan</strong>, J. Lin, X. Shao*",
+          "journal": "Fluid Dynamics Research",
+          "details": "46(1), 015502, (2014)."
+        },
+        {
+          "title": "Exponential-time differencing schemes for low-mass DPD systems",
+          "doi": "https://doi.org/10.1016/j.cpc.2013.09.022",
+          "authors": "N. Phan-Thien*, N. Mai-Duy, <strong>D. Pan</strong>, B. C. Khoo",
+          "journal": "Computer Physics Communication",
+          "details": "185, 229-235, (2014)."
+        },
+        {
+          "title": "Numerical investigation on the compressibility of a DPD fluid",
+          "doi": "https://doi.org/10.1016/j.jcp.2013.02.013",
+          "authors": "<strong>D. Pan</strong>, N. Phan-Thien*, N. Mai-Duy, B. C. Khoo",
+          "journal": "Journal of Computational Physics",
+          "details": "242, 196-210, (2013)."
+        },
+        {
+          "title": "Dissipative particle dynamics modeling of low Reynolds number incompressible flows",
+          "doi": "https://doi.org/10.1122/1.4789444",
+          "authors": "N. Mai-Duy, <strong>D. Pan</strong>, N. Phan-Thien*, B. C. Khoo",
+          "journal": "Journal of Rheology",
+          "details": "57(2), 585-604, (2013)."
+        },
+        {
+          "title": "Hydrodynamics of a flapping foil in the wake of a D-section cylinder",
+          "doi": "https://doi.org/10.1016/S1001-6058(10)60132-1",
+          "authors": "X. Shao*, <strong>D. Pan</strong>",
+          "journal": "Journal of Hydrodynamics",
+          "details": "23(4), 422-430, (2011)."
+        },
+        {
+          "title": "鱼游推进的水动力学研究综述",
+          "doi": "https://doi.org/10.3404/j.issn.1672-7649.2011.S.005",
+          "authors": "刘卉*, 邵雪明, <strong>潘定一</strong>, 赵良明",
+          "journal": "舰船科学技术",
+          "details": "33, suppl., 18-21, (2011)."
+        },
+        {
+          "title": "Hydrodynamic performance of a fishlike undulating foil in the wake of a cylinder",
+          "doi": "https://doi.org/10.1063/1.3504651",
+          "authors": "X. Shao*, <strong>D. Pan</strong>, J. Deng, Z. Yu",
+          "journal": "Physics of Fluids",
+          "details": "22(11), 111903, (2010)."
+        },
+        {
+          "title": "Studies on the oscillation behavior of a flexible plate in the wake of a D-cylinder",
+          "doi": "https://doi.org/10.1016/S1001-6058(09)60182-7",
+          "authors": "<strong>D. Pan</strong>, H. Liu, X. Shao*",
+          "journal": "Journal of Hydrodynamics",
+          "details": "22(5), suppl. 1, 132-137, (2010)."
+        },
+        {
+          "title": "Numerical studies on the propulsion and wake structure of finite-span flapping wings with different aspect ratios",
+          "doi": "https://doi.org/10.1016/S1001-6058(09)60040-8",
+          "authors": "X. Shao*, <strong>D. Pan</strong>, J. Deng, Z. Yu",
+          "journal": "Journal of Hydrodynamics",
+          "details": "22(2), 147-154, (2010)."
+        },
+        {
+          "title": "基于沉浸边界法的二维拍动翼数值模拟",
+          "doi": "https://doi.org/10.3969/j.issn.0258-1825.2008.04.001",
+          "authors": "<strong>潘定一</strong>*, 邓见, 邵雪明",
+          "journal": "空气动力学报",
+          "details": "26(4), 1-6, (2008)."
+        }
+      ]
+    }
+  ]
+}

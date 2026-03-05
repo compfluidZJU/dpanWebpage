@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Research | MC2Rheol Lab</title>
+  <title>Member | MC2Rheol Lab</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex">
 
   <!-- Meta tags -->
-  <meta name="title" content="Research | MC2Rheol Lab" />
-  <meta name="description" content="MC2Rheol Lab - Multiscale Complex Colorful Rheology Laboratory at Zhejiang University" />
+  <meta name="title" content="Member | MC2Rheol Lab" />
+  <meta name="description" content="Lab member profile" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.dingyiwang-lab.com" />
-  <meta property="og:title" content="Research | MC2Rheol Lab" />
-  <meta property="og:description" content="MC2Rheol Lab - Multiscale Complex Colorful Rheology Laboratory at Zhejiang University" />
+  <meta property="og:title" content="Member | MC2Rheol Lab" />
+  <meta property="og:description" content="Lab member profile" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="https://www.dingyiwang-lab.com" />
-  <meta property="twitter:title" content="Research | MC2Rheol Lab" />
-  <meta property="twitter:description" content="MC2Rheol Lab - Multiscale Complex Colorful Rheology Laboratory at Zhejiang University" />
+  <meta property="twitter:title" content="Member | MC2Rheol Lab" />
+  <meta property="twitter:description" content="Lab member profile" />
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" href="https://www.dingyiwang-lab.com/feed.xml" />
@@ -87,6 +86,7 @@
   <script src="/js/tooltips.js" defer></script>
   <script src="/js/true-hide.js" defer></script>
   <script src="/js/util.js" defer></script>
+  <script src="/js/content-loader.js" defer></script>
 </head>
 
 <body>
@@ -112,26 +112,8 @@
   <!-- Main Content -->
   <main>
     <section class="background">
-      <p>We are a group in Zhejiang University focusing on Multiscale, Complex and Colorful fluid dynamics and Rheology (MC<sup>2</sup>Rheol), leading by Prof.Dingyi Pan.</p>
-
-      <figure class="figure">
-        <a class="figure_image" style="width: 100%;">
-          <img src="/images/research_1.png" alt="Research diagram 1" title="" style="width: 80%;" loading="lazy" />
-        </a>
-      </figure>
-
-      <p>Our main interest lie in the modeling of complex fluids 
-         with mesoscale simulation tools which include coarse-grained molecular 
-         dynamics, dissipative particle dynamics, lattice Boltzmann modeling, etc. We are also interested in the turbulent flow of non-Newtonian fluids.
-      </p>
-
-      <figure class="figure">
-        <a class="figure_image" style="width: 100%;">
-          <img src="/images/research_2.png" alt="Research diagram 2" title="" style="width: 80%;" loading="lazy" />
-        </a>
-      </figure>
-
-      <p>We work closely with many researchers on multiscale complex fluid dynamics. Please check out our <a href="/p_publications">publications</a>. We also welcome talented and highly motivated individuals to <a href="/p_join-us">join our team</a>!</p>
+      <!-- 成员详情从 JSON 动态加载 -->
+      <div data-content="member-detail"></div>
     </section>
   </main>
 

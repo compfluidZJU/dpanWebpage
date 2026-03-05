@@ -1,0 +1,174 @@
+{
+  "lab_name": "MC²Rheol Lab",
+  "lab_subtitle": "Multiscale | Complex | Colorful",
+  "current_members": [
+    {
+      "id": "dingyi",
+      "name": "Dingyi Pan",
+      "name_cn": "潘定一",
+      "role": "Principal Investigator",
+      "role_icon": "microscope",
+      "position": "PI, Professor",
+      "email": "dpan@zju.edu.cn",
+      "image": "/images/members/dingyi.jpg",
+      "bio": "Dr. Dingyi Pan (潘定一) is currently a professor in the Department of Engineering Mechanics, Zhejiang University, Hangzhou, China. He is also affiliated to the State Key Laboratory of Fluid Power & Mechatronic Systems. Dr Pan obtained his Ph.D. degree in fluid mechanics in 2011 from Zhejiang University. He was postdoctoral research fellow in Department of Mechanical Engineering, National University of Singapore from 2011 to 2014. Dr Pan's research interests focus on modeling of complex fluids with mesoscale simulation tools which include coarse-grained molecular dynamics, dissipative particle dynamics, lattice Boltzmann modeling, etc.",
+      "google_scholar": "https://scholar.google.com/citations?user=07CrM9QAAAAJ&hl=en&oi=ao"
+    },
+    {
+      "id": "jinhe",
+      "name": "Jinhe Wang",
+      "name_cn": "王金鹤",
+      "role": "PhD Student",
+      "role_icon": "graduation-cap",
+      "position": "PhD Student",
+      "email": "jwangzju@zju.edu.cn",
+      "image": "/images/members/jinhe.jpg",
+      "bio": "Jinhe received his Bachelor degree in Engineering Mechanics from Tongji University in 2021. Jinhe is doing some research on the rheology of particle suspensions using fluid-solid coupling computational method. His interest lies in numerical method such as the Lattice Boltzmann method (LBM), immersed boundary method (IBM) and dissipative particle dynamics (DPD) method.<br><b>Give Overwatch!</b>"
+    },
+    {
+      "id": "jiaxin",
+      "name": "Jiaxin Tong",
+      "name_cn": "童佳欣",
+      "role": "PhD Student",
+      "role_icon": "graduation-cap",
+      "position": "PhD Student",
+      "email": "dpan@zju.edu.cn",
+      "image": "/images/members/jiaxin.jpg",
+      "bio": "Jiaxin received her Bachelor degree from Shandong University in 2023. During her persuit of Master's degree in Zhejiang University, she will do work on using Artifitial Intelligent method to study the turbulence of non-Newtonian fluid flow. She turned into PhD student in 2025.<br><b>Kawayi but cool.</b>"
+    },
+    {
+      "id": "runyang",
+      "name": "Runyang Qiu",
+      "name_cn": "裘润阳",
+      "role": "PhD Student",
+      "role_icon": "graduation-cap",
+      "position": "PhD Student",
+      "email": "qiury@zju.edu.cn",
+      "image": "/images/members/runyang.jpg",
+      "bio": "Runyang graduated from Xi'an Jiaotong University with a Bachelor degree in Engineering Mechanics (2021), his research interest lies in bubble dynamics and cavitation.<br><b>Been to Russia for 1 year, love to Sing, Dance, Rap and Basketball.</b>"
+    },
+    {
+      "id": "shiyuan",
+      "name": "Shiyuan Tong",
+      "name_cn": "童士源",
+      "role": "PhD Student",
+      "role_icon": "graduation-cap",
+      "position": "PhD Student",
+      "email": "dpan@zju.edu.cn",
+      "image": "/images/members/shiyuan.jpg",
+      "bio": "Shiyuan received his Bachelor and Master degree from University of Science and Technology of China. During his PhD career, he will work on the turbulence flow of non-Newtonian fluid.<br><b>Safety first.</b>"
+    },
+    {
+      "id": "songlei",
+      "name": "Lei Song",
+      "name_cn": "宋磊",
+      "role": "PhD Student",
+      "role_icon": "graduation-cap",
+      "position": "PhD Student",
+      "email": "dpan@zju.edu.cn",
+      "image": "/images/members/songlei.jpg",
+      "bio": "Lei Song received his Bachelor degree from Zhejiang University in 2024, he is now a phd student, focusing on the simulation of colloidal particle suspensions.<br><b>MPTI: 100% I.</b>"
+    },
+    {
+      "id": "yilong",
+      "name": "Yilong Min",
+      "name_cn": "闵奕龙",
+      "role": "PhD Student",
+      "role_icon": "graduation-cap",
+      "position": "PhD Student",
+      "email": "dpan@zju.edu.cn",
+      "image": "/images/members/yilong.jpg",
+      "bio": "Yilong graduated from Zhejiang University in 2019 with a Bachelor degree.<br><b>loong!</b>"
+    },
+    {
+      "id": "zuhe",
+      "name": "Zuhe Liu",
+      "name_cn": "刘祖赫",
+      "role": "Graduate Student",
+      "role_icon": "graduation-cap",
+      "position": "Graduate Student",
+      "email": "dpan@zju.edu.cn",
+      "image": "/images/members/zuhe.jpg",
+      "bio": "Zuhe liu completed his undergraduate studies at China Agricultural University and joined the lab as a graduate student in 2025. During his graduate academic career, he will work on the turbulence drag reduction.<br><b>An INFJ who loves to wander world.</b>"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Jiafeng Xie",
+      "name_cn": "谢佳烽",
+      "degree": "postdoc",
+      "period": "2023.9-2025.6",
+      "next_position": "Postdoc at Imperial College London, UK"
+    },
+    {
+      "name": "Yixuan Liang",
+      "name_cn": "梁怡轩",
+      "degree": "master",
+      "period": "2022.9-2025.6",
+      "next_position": "PhD student at Monash University, Australia"
+    },
+    {
+      "name": "Bin Fang",
+      "name_cn": "方斌",
+      "degree": "master",
+      "period": "2021.9-2024.6",
+      "next_position": "PLA"
+    },
+    {
+      "name": "Xiaoxuan Kang",
+      "name_cn": "康晓宣",
+      "degree": "master",
+      "period": "2020.9-2023.6",
+      "next_position": "Shanghai Nuclear Engineering Research & Design Institute"
+    },
+    {
+      "name": "Gengyao Zhao",
+      "name_cn": "赵庚尧",
+      "degree": "PhD",
+      "period": "2023.3",
+      "next_position": "Hebei University"
+    },
+    {
+      "name": "Chang Gao",
+      "name_cn": "高畅",
+      "degree": "master",
+      "period": "2019.9-2022.6",
+      "next_position": "China National Nuclear Corporation"
+    },
+    {
+      "name": "Anqi Zhang",
+      "name_cn": "张安琪",
+      "degree": "master",
+      "period": "2018.9-2021.6",
+      "next_position": "ZTE Corporation"
+    },
+    {
+      "name": "Qiuzhuo Zhao",
+      "name_cn": "赵秋卓",
+      "degree": "master",
+      "period": "2017.9-2020.9",
+      "next_position": "PLA"
+    },
+    {
+      "name": "Jiaming Li",
+      "name_cn": "李佳明",
+      "degree": "master",
+      "period": "2016.9-2019.6",
+      "next_position": "Alibaba"
+    },
+    {
+      "name": "Jun Wang",
+      "name_cn": "王军",
+      "degree": "master",
+      "period": "2015.9-2018.6",
+      "next_position": "Ant Group"
+    },
+    {
+      "name": "Yuqing Lin",
+      "name_cn": "林雨青",
+      "degree": "master",
+      "period": "2014.9-2017.6",
+      "next_position": "Hangzhou IT company"
+    }
+  ]
+}
